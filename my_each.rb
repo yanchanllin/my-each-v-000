@@ -12,4 +12,3 @@ def my_each(array)
    puts "Hey! No block was given!"
  end
 end
-
